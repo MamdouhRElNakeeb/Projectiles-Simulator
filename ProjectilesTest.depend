@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1483581507 source:c:\users\el nakeeb\desktop\projectilestest\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
